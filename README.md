@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Vinícius Ladeira, você pode me encontrar no instagram @vini_ladeira. 
+- 👋 Olá, eu sou o Vinícius Ladeira F. Melo, sou um estudante de programação. 
 - 👀 Eu estou interessado em me tornar um desenvolvedor Full-Stack e, em algum momento do futuro, poder migrar profissionalmente para a área de tecnologia. 
 - 🌱 Estou apenas começando na área, e por enquanto estou desenvolvendo pequenos projetos de teste, principalmente em HTML, CSS e Javascript. 
 - 📫 Você pode me encontrar no Instagram @vini-ladeira ou no pingbak, aonde eu estou tentando descrever esse processo (https://pingback.com/melo_vinicius)
