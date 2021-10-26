@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Vinícius Ladeira F. Melo, sou um estudante auto-didata de programação. 
-- 👀 Eu estou interessado em me tornar um desenvolvedor Full-Stack e, em algum momento do futuro, poder migrar profissionalmente para a área de tecnologia. 
+- 👀 Eu estou interessado em me tornar um desenvolvedor Full-Stack em algum momento do futuro. 
 - 🌱 Estou apenas começando na área, e por enquanto estou desenvolvendo pequenos projetos de teste, principalmente em HTML, CSS e Javascript. 
 - 📫 Você pode me encontrar no <a href="https://www.instagram.com/vini_ladeira/">Instagram @vini_ladeira</a>, no <a href="https://codepen.io/vini-ladeira">Codepen @vini-ladeira</a>, ou também no <a href="https://pingback.com/vini-ladeira">Pingbak @vini-ladeira </a>, aonde eu estou tentando descrever esse processo.
 
